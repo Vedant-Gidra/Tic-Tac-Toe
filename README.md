@@ -1,7 +1,3 @@
-# Tic-Tac-Toe
-Here's a README file for your Tic Tac Toe game:
-
----
 
 # Tic Tac Toe Game
 
@@ -87,8 +83,7 @@ Player 1(X) is the winner.
 
 ---
 
-Future Enhancements
-Currently, the focus is on building logic and algorithms rather than user interface or advanced development features. Possible future enhancements include:
-
-Adding a graphical interface for better user interaction.
-Implementing AI for single-player mode.
+## Future Enhancements  
+Currently, the focus is on building **logic and algorithms** rather than user interface or advanced development features. Possible future enhancements include:  
+- Adding a graphical interface for better user interaction.  
+- Implementing AI for single-player mode.  
