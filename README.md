@@ -65,15 +65,15 @@ Player 1(X) is the winner.
 ---
 
 ## How to Compile and Run  
-1. Save the code in a file named `tic_tac_toe.cpp`.  
+1. Save the code in a file named `TicTacToe.cpp`.  
 2. Open a terminal or command prompt and navigate to the directory where the file is located.  
 3. Compile the code using a C++ compiler like `g++`:  
    ```bash
-   g++ -o tic_tac_toe TicTacToe.cpp
+   g++ -o TicTacToe TicTacToe.cpp
    ```
 4. Run the compiled program:  
    ```bash
-   ./tic_tac_toe
+   ./TicTacToe
    ```
 
 ---
